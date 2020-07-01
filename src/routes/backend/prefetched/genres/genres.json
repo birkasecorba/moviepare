@@ -1,0 +1,112 @@
+{
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action",
+      "poster_path": "/ccrK9kB6mDJdH3My1yIpBAriyHz.jpg",
+      "backdrop_path": "/voVLyMxB8laS1CCRcbpjBsBJWI.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Adventure",
+      "poster_path": "/3KEPs6RKlin9pT9fqjtW7MSLC8H.jpg",
+      "backdrop_path": "/ccxNeh8JqVE6xo9L1Q5e12coFmk.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Animation",
+      "poster_path": "/cgC67SOxd9xkjN4Bnvjtuj1vI8T.jpg",
+      "backdrop_path": "/jcu6pJCZtxqBdDY417G1jiaiMkP.jpg"
+    },
+    {
+      "id": 35,
+      "name": "Comedy",
+      "poster_path": "/4MmuR6WDbS6fQhM7lgoCHkjAIQ1.jpg",
+      "backdrop_path": "/1xZgkxH2Cwr0mN029htFghCQOEj.jpg"
+    },
+    {
+      "id": 80,
+      "name": "Crime",
+      "poster_path": "/p3H8mRSMO63ISyf1NZpzP0dNQNQ.jpg",
+      "backdrop_path": "/fofD1gsyNnErCNpBSSoc5TqJ1R.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Drama",
+      "poster_path": "/bptfVGEQuv6vDTIMVCHjJ9Dz8PX.jpg",
+      "backdrop_path": "/pCUdYAaarKqY2AAUtV6xXYO8UGY.jpg"
+    },
+    {
+      "id": 10751,
+      "name": "Family",
+      "poster_path": "/1wDU19PTEdR30QdnLFw93scXto7.jpg",
+      "backdrop_path": null
+    },
+    {
+      "id": 14,
+      "name": "Fantasy",
+      "poster_path": "/gmt3HRRgtsio4nRpaHZVKOTwH8W.jpg",
+      "backdrop_path": "/6mKAKhj8POVGqV1GsroS5mGIUe9.jpg"
+    },
+    {
+      "id": 36,
+      "name": "History",
+      "poster_path": "/2NUXG94dGMKYgJL1BkJGKynMb3l.jpg",
+      "backdrop_path": "/euAMcJLG26pW1kv4kPEtVEwwroQ.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Horror",
+      "poster_path": "/kdxZZ04HFh98ZZBiTZNWHMexsGZ.jpg",
+      "backdrop_path": "/keEWjA5ykLJo851tIBFdmkxPxxh.jpg"
+    },
+    {
+      "id": 10402,
+      "name": "Music",
+      "poster_path": "/kzXe8kscKo83BwGvIofWg6SCR7n.jpg",
+      "backdrop_path": "/q7Mmddf8zuI5bwwBdjJdZrixO96.jpg"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery",
+      "poster_path": "/aISYgZUBjNLRbIxb10UHTHHPHIe.jpg",
+      "backdrop_path": "/8SQLXZPTMf5G8FpdPARJcKqARZA.jpg"
+    },
+    {
+      "id": 10749,
+      "name": "Romance",
+      "poster_path": "/oyG9TL7FcRP4EZ9Vid6uKzwdndz.jpg",
+      "backdrop_path": "/fDTPiqCynPQIkojfzdeyRHpw99S.jpg"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction",
+      "poster_path": "/5PL8KCM8MkDCKsaM5YnIsvZAk8p.jpg",
+      "backdrop_path": null
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie",
+      "poster_path": "/tyIiLtSYPCz4EKPUve1ZRQfLBL0.jpg",
+      "backdrop_path": "/YHwlfx0qwIE9nhKhr5Re3hAdD4.jpg"
+    },
+    {
+      "id": 53,
+      "name": "Thriller",
+      "poster_path": "/6UrNb7sdolnuqxBJ4I8OxTUvTmQ.jpg",
+      "backdrop_path": "/av4Lqn8D87qoCWRwUayoHE3g6Ch.jpg"
+    },
+    {
+      "id": 10752,
+      "name": "War",
+      "poster_path": "/mDna51F8QfrJFZOgPGQUz3VKqsB.jpg",
+      "backdrop_path": "/srNZKMACevekfN9Ca0C92gMvI7A.jpg"
+    },
+    {
+      "id": 37,
+      "name": "Western",
+      "poster_path": "/sN4h2uODctPePR8ot611XK3fdbs.jpg",
+      "backdrop_path": "/x4biAVdPVCghBlsVIzB6NmbghIz.jpg"
+    }
+  ]
+}

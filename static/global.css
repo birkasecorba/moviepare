@@ -1,0 +1,45 @@
+:root {
+  /* Colors */
+  --gunmetal: #131415;
+  --prussian-blue: #092a48ff;
+  --tiffany-blue: #36bfb6ff;
+  --cultured: #f5f4f4ff;
+  --bittersweet: #ff6b6bff;
+
+  /* rgb */
+  --gunmetal-rgb: 19, 20, 21;
+  --prussian-blue-rgb: 9, 42, 72;
+  --tiffany-blue-rgb: 54, 191, 182;
+  --cultured-rgb: 245, 244, 244;
+  --bittersweet-rgb: 255, 107, 107;
+}
+
+body {
+	margin: 0;
+	font-family: Roboto, -apple-system, BlinkMacSystemFont, Segoe UI, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+	font-size: 14px;
+	line-height: 1.5;
+  color: var(--cultured);
+  background-color: var(--gunmetal);
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 0 0 0.5em 0;
+	font-weight: 400;
+	line-height: 1.2;
+}
+
+h1 {
+	font-size: 2em;
+}
+
+a {
+	color: inherit;
+}
+
+
+@media (min-width: 400px) {
+	body {
+		font-size: 16px;
+	}
+}

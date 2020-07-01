@@ -1,0 +1,51 @@
+{
+  "name": "moviepare",
+  "description": "Movie comparison game by IMDb scores",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "yarn dev:tailwindcss & sapper dev",
+    "build": "npm run build:tailwindcss && sapper build",
+    "export": "npm run build:tailwindcss && sapper export",
+    "start": "node __sapper__/build",
+    "cy:run": "cypress run",
+    "cy:open": "cypress open",
+    "test": "run-p --race dev cy:run",
+    "dev:tailwindcss": "postcss static/tailwind.css -o static/main.css -w",
+    "build:tailwindcss": "NODE_ENV=production postcss static/tailwind.css -o static/main.css",
+    "build:run": "yarn build && node __sapper__/build",
+    "deploy": "yarn build:tailwindcss && vercel deploy"
+  },
+  "dependencies": {
+    "@fullhuman/postcss-purgecss": "^2.3.0",
+    "body-parser": "^1.19.0",
+    "compression": "^1.7.1",
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "faunadb": "^2.14.2",
+    "lodash": "^4.17.15",
+    "node-fetch": "^2.6.0",
+    "sirv": "^0.4.0",
+    "ua-parser-js": "^0.7.21",
+    "vercel-sapper": "^0.41.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.8.4",
+    "eslint": "^7.2.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "npm-run-all": "^4.1.5",
+    "postcss": "^7.0.32",
+    "postcss-cli": "^7.1.1",
+    "postcss-load-config": "^2.1.0",
+    "sapper": "^0.27.0",
+    "svelte": "^3.0.0",
+    "svelte-loader": "^2.9.0",
+    "svelte-preprocess": "^3.9.10",
+    "tailwindcss": "^1.4.6",
+    "webpack": "^4.7.0"
+  },
+  "browserslist": [
+    "last 2 versions",
+    "not IE 11",
+    "not IE_Mob 11"
+  ]
+}
