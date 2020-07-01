@@ -14,7 +14,6 @@
     })
     .sort((a, b) => a.r - b.r);
 
-  // $: console.log(confetti);
   onMount(() => {
     let frame;
 

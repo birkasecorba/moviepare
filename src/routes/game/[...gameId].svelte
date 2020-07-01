@@ -45,7 +45,6 @@
     challengerRoundsData = await fetchJson(
       `/backend/round/${challengerRoundsId}`
     );
-    console.log(challengerRoundsData);
   });
 </script>
 
