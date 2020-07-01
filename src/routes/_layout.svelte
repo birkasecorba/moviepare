@@ -51,7 +51,7 @@
   }
 
   .CONTENT {
-    height: var(--content-height);
+    min-height: var(--content-height);
     padding: var(--content-padding-y) 0;
   }
 </style>
