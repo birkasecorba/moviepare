@@ -1,2 +1,2 @@
 ### Demo:
-[moviepare.vercel.app](moviepare.vercel.app)
+[Demo](http://moviepare.birkasecorba.com)
