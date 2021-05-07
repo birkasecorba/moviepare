@@ -25,7 +25,7 @@
     "lodash": "^4.17.19",
     "node-fetch": "^2.6.1",
     "sirv": "^0.4.0",
-    "ua-parser-js": "^0.7.21",
+    "ua-parser-js": "^0.7.24",
     "vercel-sapper": "^0.41.0"
   },
   "devDependencies": {
